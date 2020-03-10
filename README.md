@@ -9,13 +9,13 @@
 pipenv install
 
 # Run script
-python part_manager.py
+python component_manager.py
 
 
 # Compile with Pyinstaller
 
 # Windows
-pyinstaller --onefile --windowed part_manager.py
+pyinstaller --onefile --windowed component_manager.py
 
 ```
 
